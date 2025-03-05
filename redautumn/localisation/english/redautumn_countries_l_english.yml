@@ -1,4 +1,5 @@
 ﻿l_english:
+# REDAUTUMN
 SPG:0 "German Republic"
 SPG_DEF:0 "the German Republic"
 SPG_ADJ:0 "German"
@@ -9,4 +10,7 @@ KPD_stalinism:0 "Soviet Republic of Germany"
 KPD_stalinism_DEF:0  "the Soviet Republic of Germany"
 KPD:0 "Worker's Republic of Germany"
 KPD_DEF:0 "the Worker's Republic of Germany"
-KPD_ADJ:0 "Communist German"
+KPD_ADJ:0 "Communist German" 
+NAZ:0 "Deutsch Volksreich"
+NAZ_DEF:0 "the Deutsch Volksreich"
+NAZ_ADJ:0 "Nazi German" 
