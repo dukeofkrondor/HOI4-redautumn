@@ -5,27 +5,6 @@ set_technology = {
 	infantry_weapons = 1
 }
 
-recruit_character = KPD_ar
-recruit_character = KPD_acr
-recruit_character = KPD_mt
-recruit_character = KPD_stc
-recruit_character = KPD_aa2
-recruit_character = KPD_acgs
-recruit_character = KPD_ncm
-recruit_character = KPD_nccr
-recruit_character = KPD_coi
-recruit_character = KPD_democratic_guy
-recruit_character = KPD_acd2
-recruit_character = KPD_acasfra
-recruit_character = KPD_communist_guy
-recruit_character = KPD_ncs
-recruit_character = KPD_awt
-recruit_character = KPD_pot
-recruit_character = KPD_fascist_guy
-recruit_character = KPD_ai2
-recruit_character = KPD_nt
-recruit_character = KPD_aco2
-
 
 set_convoys = 20
 
