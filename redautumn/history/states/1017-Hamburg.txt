@@ -1,6 +1,6 @@
 state={
-	id=982
-	name="STATE_982"
+	id=1017
+	name="STATE_1017"
 	manpower = 1236353
 
 
@@ -14,10 +14,6 @@ state={
 		add_core_of = NAZ
 		add_core_of = RUH
 		add_core_of = PRU
-
-		victory_points = {
-			6235 20 # Hamburg
-		}
 
 		victory_points = {
 			6298 1 # Lüneburg

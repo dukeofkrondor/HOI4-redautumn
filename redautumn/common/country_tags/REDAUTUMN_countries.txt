@@ -1,0 +1,5 @@
+#REDAUTUMN Germany
+SPG = "countries/SPG_germany.txt" # SPD controlled germany on game start
+KPD = "countries/KPD_germany.txt" # KPD controlled germany on game start
+NAZ = "countries/NAZ_germany.txt" # Nazi controlled sudetenland on game start
+RUH = "countries/RUH_germany.txt" # Ruhr Commune, releasable from France
