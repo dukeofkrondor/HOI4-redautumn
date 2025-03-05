@@ -11,8 +11,8 @@ state = {
 		owner = KPD
 		add_core_of = KPD
 		add_core_of = SPG
-		add_core_of = RUH
 		add_core_of = NAZ
+		add_core_of = RUH
 		add_core_of = PRE
 
 		victory_points = {
@@ -58,7 +58,7 @@ state = {
 	}
 
 	provinces = {
-		375 478 3367 3499 3522 6487 6521 9238 9264 9294 9428 9456 9496 9560 11219 11359 11415 11444 11505 
+		375 478 3367 3499 3522 6487 6521 9428 9456 9496 9560 11219 11359 11415 11444 11505 
 	}
 
 	local_supplies = 0.0 

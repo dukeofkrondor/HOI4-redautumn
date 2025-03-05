@@ -11,8 +11,11 @@ KPD_stalinism_DEF:0  "the Soviet Republic of Germany"
 KPD:0 "Worker's Republic of Germany"
 KPD_DEF:0 "the Worker's Republic of Germany"
 KPD_ADJ:0 "Communist German" 
+NAZ:0 "Deutsch Volksreich"
+NAZ_DEF:0 "the Worker's Republic of Germany"
+NAZ_ADJ:0 "Communist German" 
 
-
+# BASE GAME
 GER_fascism:0 "German Reich"
 GER_fascism_DEF:0 "the German Reich"
 GER_democratic:0 "German Republic"

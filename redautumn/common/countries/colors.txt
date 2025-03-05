@@ -1083,3 +1083,7 @@ KPD = {
 	color = rgb { 196 57 136 }
 	color_ui = rgb { 196 57 136 }
 }
+NAZ = {
+	color = rgb { 35 41 87 }
+	color_ui = rgb { 35 41 87 }
+}

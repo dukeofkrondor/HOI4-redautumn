@@ -94,7 +94,7 @@ set_popularities = {
 create_country_leader = {
 	name = "Walter Ulbricht"
 	desc = ""
-	picture = dittmann.dds
+	picture = portrait_GER_walter_ulbricht.dds
 	ideology = stalinism
 	traits = {
 		#

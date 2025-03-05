@@ -1,0 +1,42 @@
+state={
+	id=982
+	name="STATE_982"
+	manpower = 1236353
+
+
+	state_category = large_town
+
+	history = {
+
+		owner = KPD
+		add_core_of = KPD
+		add_core_of = SPG
+		add_core_of = NAZ
+		add_core_of = RUH
+		add_core_of = PRU
+
+		victory_points = {
+			6235 20 # Hamburg
+		}
+
+		victory_points = {
+			6298 1 # Lüneburg
+		}
+
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			dockyard = 1
+			6325 = { # Buxtehude
+				naval_base = 1
+			}
+		}
+		
+	}
+
+	provinces={
+		6298 6325 9238 9264 9294
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -9,19 +9,19 @@ state = {
 		owner = KPD
 		add_core_of = KPD
 		add_core_of = SPG
-		add_core_of = RUH
 		add_core_of = NAZ
+		add_core_of = RUH
 		add_core_of = SHL
 		add_core_of = PRE
 
 		victory_points = {
 			6389 10 # Kiel
 		}
-		
+
 		victory_points = {
 			9347 20 # Hamburg
 		}
-
+		
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
@@ -43,7 +43,7 @@ state = {
 	}
 
 	provinces = {
-		374 3368 6257 6298 6325 6349 6389 9320 9347 11331 
+		3368 6257 6389 9320 9347 11331 
  	}
 
 	local_supplies = 0.0 
